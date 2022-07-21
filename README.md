@@ -8,13 +8,13 @@
 <li>Open the app and Done👍</li>
 <li>Now, you can calculate your own or someone's age. Select D.O.B and then age will automatically appear in terms of <b>Years, Hours and Mintues</b>
 <ul>
-<br><br>
-<h3>Give a Star ⭐ if you liked the app</h3>
 
 
 
+<h3>Give a Star⭐ , If You Liked the App</h3>
+<code>
+Made with ❤️ |
+<br>
+By Chandan Pandey
+</code>
 
-
-<div>
-<p>Made with ❤️ | In India<br></p>
-</div>
